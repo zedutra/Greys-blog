@@ -1,0 +1,15 @@
+body{
+	padding-top: 80px;
+	background-image: url('../img/background.jpeg');
+	background-size: 500px;
+}
+footer{
+	margin-top: 20px;
+}
+.dark{
+	background-color: black;
+}
+.card{
+	padding-top: 5px; 
+	margin-top: 20px;
+}
