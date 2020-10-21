@@ -10,5 +10,5 @@ Este é um modelo de blog com sistema de login e aba de comentários. Feito em H
 
 ## Author
 
-| [<img src="https://avatars3.githubusercontent.com/u/13838273?v=3&s=115"><br><sub>@zedutra</sub>](https://github.com/zedutra) |
+| [<img src="https://avatars2.githubusercontent.com/u/43136122?s=400&u=8481195147f88e82e0c2052fbdfef0b834d0881d&v=4"><br><sub>@zedutra</sub>](https://github.com/zedutra) |
 | :----------------------------------------------------------------------------------------------------------------------------: |
