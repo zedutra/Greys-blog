@@ -81,7 +81,7 @@ function mostrar_link(){
 }
 
 function listar_mensagem($con){
-	$sql = "SELECT id, id_usuario, texto, data FROM postagem ORDER BY id DESC limit 10";
+	$sql = "SELECT id, id_usuario, texto, data_postagem FROM postagem ORDER BY id DESC limit 10";
 	$resultado = mysqli_query($con,$sql);
 	if($resultado){
 		$mensagens = array();

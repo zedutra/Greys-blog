@@ -54,7 +54,7 @@ $mensagem = listar_mensagem($con);
 foreach ($mensagem as $mensagens) {
 ?>
 <div class="card container col-8" style="padding-top: 5px; margin-top: 20px;">
-  <h4><?php mostrar_usuario($con, $mensagens['id_usuario']); ?></h4><small class="text-muted"><?php $data = $mensagens['data']; print "Postado: ".date('d/m/Y',strtotime($data)) ?></small>
+  <h4><?php mostrar_usuario($con, $mensagens['id_usuario']); ?></h4><small class="text-muted"><?php $data = $mensagens['data_postagem']; print "Postado: ".date('d/m/Y',strtotime($data)) ?></small>
   <div class="card-body">
     <p class="card-text"><?php print $mensagens['texto']; ?></p>
   </div>
@@ -65,10 +65,10 @@ foreach ($mensagem as $mensagens) {
   <div class="container-fluid justify-content-center">
     <ul class="nav">
       <li class="nav-item">
-        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100008689987251"><img src="img/facebook.png" width="50px"></a>
+        <a class="nav-link" href="https://www.facebook.com"><img src="img/facebook.png" width="50px"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.instagram.com/clara_nunes07/?hl=pt-br"><img src="img/instagram.png" width="50px"></a>
+        <a class="nav-link" href="https://www.instagram.com"><img src="img/instagram.png" width="50px"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#inicio"><img src="img/uparrow.png" width="50px"></a>

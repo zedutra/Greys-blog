@@ -13,3 +13,6 @@ footer{
 	padding-top: 5px; 
 	margin-top: 20px;
 }
+.carousel-item{
+	height: 600px;
+}

@@ -78,10 +78,10 @@
   <div class="container-fluid justify-content-center">
     <ul class="nav">
       <li class="nav-item">
-        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100008689987251"><img src="img/facebook.png" width="50px"></a>
+        <a class="nav-link" href="https://www.facebook.com"><img src="img/facebook.png" width="50px"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.instagram.com/clara_nunes07/?hl=pt-br"><img src="img/instagram.png" width="50px"></a>
+        <a class="nav-link" href="https://www.instagram.com"><img src="img/instagram.png" width="50px"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#inicio"><img src="img/uparrow.png" width="50px"></a>

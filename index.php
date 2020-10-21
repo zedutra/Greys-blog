@@ -46,9 +46,9 @@
 
 <div class="card container col-8" style="padding-top: 5px; margin-top: 20px;">
   <h2 style="text-align: center;">Um pouco sobre mim</h2>
-  <img class="card-img-top" src="img/eu.jpeg">
+  <img class="card-img-top" src="img/eu.jpg">
   <div class="card-body">
-    <p class="card-text">Oi, meu nome é Ana Clara Nunes, tenho 16 anos e nasci em Janaúba Minas Gerais faço aniversário dia
+    <p class="card-text">Oi, meu nome é Ana Clara, tenho 18 anos e nasci em Janaúba Minas Gerais faço aniversário dia
     19 de Junho. Sou cruzeirense gosto muito de praticar esportes meu preferido é o Handball,
     amo séries e como deu pra perceber sou fã de Grey's, gosto muito de cachorros e estudo na instituição
     IFNMG (Instituto Federal do Norte de Minas Gerais) e pretendo me formar em Médicina como cardiologista
@@ -61,10 +61,10 @@
   <div class="container-fluid justify-content-center">
     <ul class="nav">
       <li class="nav-item">
-        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100008689987251"><img src="img/facebook.png" width="50px"></a>
+        <a class="nav-link" href="https://www.facebook.com"><img src="img/facebook.png" width="50px"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.instagram.com/clara_nunes07/?hl=pt-br"><img src="img/instagram.png" width="50px"></a>
+        <a class="nav-link" href="https://www.instagram.com"><img src="img/instagram.png" width="50px"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#inicio"><img src="img/uparrow.png" width="50px"></a>
